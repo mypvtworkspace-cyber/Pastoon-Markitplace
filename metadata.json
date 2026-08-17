@@ -1,0 +1,8 @@
+{
+  "name": "DealHub",
+  "description": "Universal Deals, Services, Products & Business Marketplace Platform with Comprehensive Verified User Review System, 2% Commission Engine, Fiverr-Style Dealer Direct Messaging, Zero-Budget AI Support System, 5-Tier Mobile Role Hierarchy, Owner Control Panel, and App Update Center.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
